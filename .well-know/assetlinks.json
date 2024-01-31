@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.albinhinostroza.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["E0:2A:FE:22:3A:8B:A8:56:C0:0F:B4:8D:3D:59:3A:64:73:31:4E:49:91:9C:04:26:42:0B:7C:B6:17:3E:30:5D"]
+    }
+  }]
+  
